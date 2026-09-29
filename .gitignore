@@ -1,0 +1,9 @@
+.vercel
+.npm-cache
+.vercel-cli/
+.vercel-cli48/
+.vercel-runtime/
+.env*
+
+.vercel
+.env*
